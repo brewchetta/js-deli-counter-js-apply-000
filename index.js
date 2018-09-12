@@ -1,3 +1,3 @@
-var takeANumber = function() {
+var takeANumber = function(spot,name) {
   
 };
