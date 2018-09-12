@@ -9,5 +9,4 @@ var nowServing = function(line) {
     return 'Currently serving ' + line[0] + ".";
     line.shift;
   }
-
 };
