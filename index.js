@@ -10,3 +10,7 @@ var nowServing = function(line) {
     line.shift;
   }
 };
+
+var currentLine = function() {
+  
+};
