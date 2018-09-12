@@ -11,6 +11,6 @@ var nowServing = function(line) {
   }
 };
 
-var currentLine = function() {
+var currentLine = function(line) {
   
 };
