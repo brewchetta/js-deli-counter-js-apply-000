@@ -1,3 +1,3 @@
-var pleaseTakeANumber = function() {
+var takeANumber = function() {
   
 };
