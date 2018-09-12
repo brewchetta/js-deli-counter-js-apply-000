@@ -17,7 +17,7 @@ var currentLine = function(line) {
   } else {
     var string = "The line is currently: ";
     for(var i = 0; i < line.length; i++) {
-      if ((i-1) < line.length) {
+      if ((i+1) < line.length) {
         string = string + (i+1)+". " + line[i] + ", "
       } else {
         string = string + (i+1)+". " + line[i]
