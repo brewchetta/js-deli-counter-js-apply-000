@@ -4,5 +4,7 @@ var takeANumber = function(line,name) {
 };
 
 var nowServing = function(line) {
-
+  if (line.length == 0)
+  return line[0];
+  
 };
